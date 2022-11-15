@@ -10,5 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 - Hi, I am @ChandraKiranJyotula and i am interested in collaborative coding..
 - I am found of Machine Learning...
-- I am currently learning core concepts like Operating Systems and Computer Networks..
+- I am pretty good at core concepts like Operating Systems and Computer Networks..
 - You can reach me at chandrajyothula360@gmail.com
